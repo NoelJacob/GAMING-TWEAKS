@@ -1,7 +1,6 @@
 # Windows Gaming Tweaks
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
-[![Discord](https://img.shields.io/discord/418256415874875402.svg?colorA=7289da&colorB=99aab5&label=Discord&logo=discord&maxAge=60)](https://discord.me/CHEF-KOCH)
 [![HitCount](http://hits.dwyl.com/NoelJacob/GAMING-TWEAKS.svg)](http://hits.dwyl.com/NoelJacob/GAMING-TWEAKS)
 
 My little guide is all about Windows 10 Gaming (_and a little bit Linux!_) and I really mean gaming! There exist [tons of outdated guides and myths](https://github.com/CHEF-KOCH/GamingTweaks/blob/master/Known%20Myths.md) when it comes to "game tweaking" but they are mostly wrong, so I wrote my own guide to show the things which really do make the difference!
