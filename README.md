@@ -1,9 +1,5 @@
 # Windows Gaming Tweaks
 
-<p align="center">
-  <img width="500" height="320" src="https://raw.githubusercontent.com/NoelJacob/GAMING-TWEAKS/master/.github/Pictures/Windows%20Gaming%20Tweaks.jpg")">
-</p>
-
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Discord](https://img.shields.io/discord/418256415874875402.svg?colorA=7289da&colorB=99aab5&label=Discord&logo=discord&maxAge=60)](https://discord.me/CHEF-KOCH)
 [![HitCount](http://hits.dwyl.com/NoelJacob/GAMING-TWEAKS.svg)](http://hits.dwyl.com/NoelJacob/GAMING-TWEAKS)
