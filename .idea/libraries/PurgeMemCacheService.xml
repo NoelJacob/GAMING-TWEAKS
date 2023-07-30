@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PurgeMemCacheService">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tools/RAM/PurgeMemCacheService.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

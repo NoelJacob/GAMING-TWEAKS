@@ -12,4 +12,4 @@ On AMD Threadripper systems you can enable Dynamic Local Mode, which acts like s
 * Is your Sound card/GPU/SSD/M.2 in the correct slot? 16x and not 1x/4x?
 * Have you checked your PSU again?
 
-Assuming that your hardware is 100% perfect and working you can use one of these tools in order to workaround the Windows integrated compression bug, see [here](https://github.com/CHEF-KOCH/GamingTweaks/tree/master/Tools/RAM).
+Assuming that your hardware is 100% perfect and working you can use one of these tools in order to workaround the Windows integrated compression bug, see [here](https://github.com/NoelJacob/GamingTweaks/tree/master/Tools/RAM).

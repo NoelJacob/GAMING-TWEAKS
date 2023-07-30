@@ -164,7 +164,7 @@ Windows Registry Editor Version 5.00
 
 ; I do not recommended using this!
 ; Starting with Windows 1909 this is not anymore needed.
-; https://github.com/CHEF-KOCH/GamingTweaks/issues/5
+; https://github.com/NoelJacob/GamingTweaks/issues/5
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
 "NetworkThrottlingIndex"=dword:ffffffff

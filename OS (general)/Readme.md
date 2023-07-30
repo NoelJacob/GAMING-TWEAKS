@@ -332,7 +332,7 @@ Since Windows 1803+ you don't need to disable GameDVR anymore, **only in case yo
 
 ### GameBarPresenceWriter.exe
 
-GameBarPresenceWriter.exe is a part of the XBox Game Bar function and typically runs in the background. The process can't be killed because it will automatically be restarted. You can use [this script](https://github.com/CHEF-KOCH/GamingTweaks/tree/master/Tools/GameBarPresenceWriter) to kill it once and for all.
+GameBarPresenceWriter.exe is a part of the XBox Game Bar function and typically runs in the background. The process can't be killed because it will automatically be restarted. You can use [this script](https://github.com/NoelJacob/GamingTweaks/tree/master/Tools/GameBarPresenceWriter) to kill it once and for all.
 
 
 ### Windows 10 Memory Compression
@@ -345,7 +345,7 @@ If you had 8 GB of RAM and applications had, let's say 9 GB of stuff to store in
 
 Open a PowerShell with Administrator privileges then, run the command `Disable-MMAgent -MemoryCompression` and reboot. This disables the compression. To enable it later again, run again PowerShell as admin and run the `Enable-MMAgent -MemoryCompression` command. Some tasks managers can show memory compression information like Windows own task-manager, [ProcessHacker](https://wj32.org/processhacker/forums/viewtopic.php?t=2421) and [Process Explorer](https://www.howtogeek.com/319933/what-is-memory-compression-in-windows-10/).
 
-For more details, see [this post](https://github.com/CHEF-KOCH/GamingTweaks/issues/26).
+For more details, see [this post](https://github.com/NoelJacob/GamingTweaks/issues/26).
 
 ![Controlling Memory Compression](https://s19.directupload.net/images/191127/fdekunh3.png)
 

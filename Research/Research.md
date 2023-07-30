@@ -270,7 +270,7 @@
 * [USB polling precision explained (overclock.net)](https://www.overclock.net/forum/375-mice/1550666-usb-polling-precision.html)
 * ~~[(old) Mouse tester tool (overclock.net)](https://www.overclock.net/forum/375-mice/1535687-mousetester-software.html) & [source code (github.com)](https://github.com/microe1/MouseTester)~~
 * ~~([new) Mouse tester tool (overclock.net)](https://www.overclock.net/forum/375-mice/1590569-mousetester-software-reloaded.html) & [source code (github.com)](http://github.com/dobragab/MouseTester)~~
-* [Mouse movement recorder by MarkC (donewmouseaccel.blogspot.com)](https://donewmouseaccel.blogspot.com/) & [Source Code](https://github.com/CHEF-KOCH/GamingTweaks/tree/master/Tools/Mouse%20Movement%20Recorder/MouseMovementRecorder%20Source%20Code)
+* [Mouse movement recorder by MarkC (donewmouseaccel.blogspot.com)](https://donewmouseaccel.blogspot.com/) & [Source Code](https://github.com/NoelJacob/GamingTweaks/tree/master/Tools/Mouse%20Movement%20Recorder/MouseMovementRecorder%20Source%20Code)
 * [Mouse Rate Checker (softpedia.com)](http://www.softpedia.com/get/System/System-Miscellaneous/Mouse-Rate-Checker.shtml)
 * [1000hz - Overclock/Underclock your old mouse and increase its polling rate (github.com)](https://github.com/vadash/1000hz)
 
@@ -321,7 +321,7 @@
 * ~~[Intel Power Maximizer](http://www.intel.com/performancemaximizer)~~
 
 ### Internet Latency "tweak" programs
-* ~~[TCPOptimizer (speedguide.net)](http://www.speedguide.net/files/TCPOptimizer.exe)~~ _I do not recommend it_, tweak (manually) only parameters you [really need](https://github.com/CHEF-KOCH/GamingTweaks/issues/24).
+* ~~[TCPOptimizer (speedguide.net)](http://www.speedguide.net/files/TCPOptimizer.exe)~~ _I do not recommend it_, tweak (manually) only parameters you [really need](https://github.com/NoelJacob/GamingTweaks/issues/24).
 
 ### PC Latency measurement programs
 * [LatencyMon (resplendence.com)](http://www.resplendence.com/latencymon)

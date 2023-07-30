@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Add Group Policy to Windows 10 Home">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OS Settings/Add Group Policy to Windows 10 Home.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
